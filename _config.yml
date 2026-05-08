@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 lang: ko-KR
 timezone: Asia/Seoul
 
-title: "asdfg0119"
+title: "asdfg7609"
 
 # 1. 특수 공백을 완전히 제거하고, 배지 주소를 인코딩된 형태로 교체했습니다.
 # 2. <br> 태그와 alt 속성을 정확히 배치했습니다.
@@ -16,13 +16,13 @@ description: "LLM & Agent, NLP Research, Computer Science, Infra & DevOps를 주
 url: "https://asdfg0119.github.io"
 
 github:
-  username: asdfg0119
+  username: asdfg7609
 
 social:
-  name: asdfg0119
+  name: asdfg7609
   email: gns3216@naver.com
   links:
-    - https://github.com/asdfg0119
+    - https://github.com/asdfg7609
 
 # --------------------------
 # 분석 및 기타 설정
@@ -34,7 +34,7 @@ analytics:
   type: 'google'
 
 # 현재 비어있는 프로필 사진을 채워넣어 레이아웃을 완성합니다.
-avatar: "https://github.com/asdfg0119.png"
+avatar: "https://github.com/asdfg7609.png"
 
 paginate: 10
 baseurl: ""
