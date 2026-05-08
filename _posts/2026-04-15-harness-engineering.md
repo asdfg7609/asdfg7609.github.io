@@ -4,7 +4,7 @@ title: "Harness Engineering: AI 에이전트를 길들이는 새로운 엔지니
 date: 2026-04-15 11:00:00 +0900
 categories:
   - LLM
-  - AgentEngineering
+  - Agent
 tags: [HarnessEngineering, AIAgent, LLM, OpenAI]
 math: false
 ---
