@@ -4,7 +4,7 @@ title: "Function Calling, LangChain, LangGraph에서 LLM에게 전달되는 것�
 date: 2026-04-28 12:00:00 +0900
 categories:
   - LLM
-  - AgentMethods
+  - Agent
 tags: [AIAgent, ToolCall, LangChain, LangGraph, LLM]
 math: false
 ---
