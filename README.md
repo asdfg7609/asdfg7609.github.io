@@ -36,6 +36,6 @@ My goal is to spark new ideas for those passionate about the frontiers of langua
 
 ### 📑 Explore My Insights
 If you find these resources helpful, feel free to connect or leave a star! Detailed research logs are updated regularly on my blog:
-👉 [**asdfg0119.github.io**](https://asdfg7609.github.io)
+👉 [**asdfg7609.github.io**](https://asdfg7609.github.io)
 
 [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fasdfg0119.github.io%2F&label=&icon=github&color=%2322AD5C)](https://asdfg7609.github.io)
