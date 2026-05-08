@@ -5,6 +5,7 @@ date: 2026-05-07 18:00:00 +0900
 categories:
   - LLM
   - Architecture
+  - Agent
 tags: [AIWorkflow, LLM, Agent, PromptChaining, Orchestrator, n8n, LangChain, LangGraph, 자동화]
 math: false
 ---
