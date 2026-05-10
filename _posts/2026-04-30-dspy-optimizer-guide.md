@@ -4,7 +4,7 @@ title: "DSPy — COPRO·MIPROv2·GEPA 가이드"
 date: 2026-04-30 12:00:00 +0900
 categories:
   - LLM
-  - DSPy
+  - PromptEngineering
 tags: [DSPy, GEPA, MIPROv2, COPRO, PromptOptimization, LLM, VLM, PromptEngineering]
 math: false
 ---
