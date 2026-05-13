@@ -6,7 +6,7 @@ categories:
   - LLM
   - Architecture
   - Agent
-tags: [AIWorkflow, LLM, Agent, PromptChaining, Orchestrator, n8n, LangChain, LangGraph, 자동화]
+tags: [AIWorkflow, LLM, Agent, PromptChaining, Orchestrator, n8n, LangChain, LangGraph]
 math: false
 ---
 
