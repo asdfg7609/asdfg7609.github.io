@@ -4,7 +4,7 @@ title: "Claude Code가 내 프로젝트 규칙을 기억하게 만드는 법"
 date: 2026-05-19 22:00:00 +0900
 categories:
   - AI
-  - Tools
+  - ClaudeCode
 tags: [ClaudeCode, CLAUDE.md, ContextEngineering, Karpathy, AICoading]
 math: false
 ---
@@ -301,7 +301,7 @@ model: claude-sonnet-4-6
 
 Claude가 파일을 읽을 때마다 토큰이 소비됩니다. 빌드 결과물, 의존성, 생성된 파일은 제외합니다.
 
-```gitignore
+``` gitignore
 # .claudeignore
 node_modules/
 .venv/
