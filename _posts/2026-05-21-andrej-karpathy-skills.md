@@ -5,7 +5,7 @@ date: 2026-05-21 21:00:00 +0900
 categories:
   - AI
   - ClaudeCode
-tags: [Claude, ClaudeCode, CLAUDE.md, KarpathySkills, AgentCoding, Anthropic, LLM]
+tags: [Claude, ClaudeCode, CLAUDE.md, Karpathy, AgentCoding, Anthropic]
 ---
 
 > {: .prompt-tip }
