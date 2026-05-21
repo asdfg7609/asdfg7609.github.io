@@ -5,7 +5,7 @@ date: 2026-05-20 12:00:00 +0900
 categories:
   - AI
   - ClaudeCode
-tags: [Claude, Skills, SKILL.md, CLAUDE.md, AgentSkills, Anthropic, ClaudeCode]
+tags: [Claude, SKILL.md, CLAUDE.md, Anthropic, ClaudeCode]
 ---
 
 > {: .prompt-tip }
