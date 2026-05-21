@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Karpathy가 말한 AI 코딩의 4가지 병폐"
-date: 2026-05-21 20:00:00 +0900
+date: 2026-05-21 21:00:00 +0900
 categories:
   - AI
   - ClaudeCode
