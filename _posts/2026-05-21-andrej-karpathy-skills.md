@@ -61,7 +61,7 @@ LLM은 '좋은 코드'의 패턴을 학습했습니다. 팩토리 패턴, 전략
 
 > "They still sometimes change/remove comments and code they don't sufficiently understand as side effects, even if orthogonal to the task."
 
-버그 하나를 고치러 들어갔다가, 관련 없는 파일의 따옴표 스타일을 바꾸거나 타입 힌트를 추가하거나 오래된 주석을 지우고 나옵니다. 각각은 사소해 보이지만, 코드 리뷰어 입장에서는 실제 변경과 부수 효과를 분리하는 작업이 추가됩니다. diff가 오염됩니다.
+버그 하나를 고치러 들어갔다가, 관련 없는 파일의 따옴표 스타일을 바꾸거나 타입 힌트를 추가하거나 오래된 주석을 지우고 나옵니다. 각각은 사소해 보이지만, 코드 리뷰어 입장에서는 실제 변경과 부수 효과를 분리하는 작업이 추가됩니다.
 
 ### 실패 4: 검증 기준의 부재 (No Success Criteria)
 
