@@ -5,7 +5,7 @@ date: 2026-06-16 19:00:00 +0900
 categories:
   - PaperReview
   - RLHF
-tags: [RLHF, ICLR2026, MIT, RewardModel, RUM, IIA, LLM, Alignment]
+tags: [RLHF, ICLR2026, MIT, RewardModel, RUM, IIA, Alignment]
 math: true
 ---
 
